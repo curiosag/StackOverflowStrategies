@@ -1,6 +1,6 @@
 # Stack Overflow Strategies
 
-A collection of strategies and approaches to get going on and get along with the [Stack Overflow](https://stackoverflow.com/) site
+A collection of strategies and approaches to get going on and get along with the [Stack Overflow](https://stackoverflow.com/) site. 
 
 ## When answering
 
@@ -32,4 +32,4 @@ A collection of strategies and approaches to get going on and get along with the
 
 ## When asking
 
-- and you got down-voted to death, you'd want to work on your way of asking or your choice of questions. **But** if you also want to restore your SO-reputation to where it was before, then just delete the post. As long as there hasn't been an answer that's supposed to be ok. Afterwards I'm not sure, but a post of that kind isn't likelely to yield any answers anyway. Don't re-post it, though, this will get you're account blocked.
+- and you got down-voted to death, you'd want to work on your way of asking or your choice of questions. **But** if you also want to restore your SO reputation to where it was before, then just delete the post. As long as there hasn't been an answer that's supposed to be ok. Afterwards I'm not sure, but a post of that kind isn't likelely to yield any answers anyway. Don't re-post it, though, this will get you're account blocked.
