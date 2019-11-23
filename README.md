@@ -8,7 +8,7 @@ A collection of strategies and approaches to get going on and get along with the
 
 - **LEGIT** Be fast, be first. Have your IDE up and running and google's search page open. Make a quick solution and put it out. Later posts fare worse.
 
-- **LEGIT** Add additional explanation and links to the post once it is out. Some text and links seems to impress people more than bare bone code. Scientific papers and stuff like 
+- **LEGIT** Add additional explanation and links to the post once it is out. Some text and links seems to impress people more than bare bone code. References in general, to scientific papers in particular and stuff like Java language specification impress (and may be helpful too).
 
 - **LEGIT** Apply a catchy formatting with paragraphs, horizontal rules, quotes and all.  
 
