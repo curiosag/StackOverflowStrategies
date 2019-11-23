@@ -4,7 +4,7 @@ A collection of strategies and approaches to get going on and get along with the
 
 ## When answering
 
-- **LEGIT** edit posts. You're entitled to do so from the start, each accepted edit earns you +2
+- **LEGIT** edit posts. You're entitled to do so from the start, each accepted edit earns you +2. Easy wins are code formatting, weeding out non-gender-neutral addressing of the audience ("Hello, guys"), adding detailed information ("I'm using a scanner" -> "I'm using java.util.Scanner") or setting stuff straight ("I'm using an array" -> its often an ArrayList actually) and re-tagging the post (e.g. 'java' confused with 'javascript')
 
 - **LEGIT** Be fast, be first. Have your IDE up and running and google's search page open. Make a quick solution and put it out. Later posts fare worse.
 
@@ -16,7 +16,7 @@ A collection of strategies and approaches to get going on and get along with the
 
 - **LEGIT** recycle. Maintain bookmarks of your recent answers if you think they're valuable, but got not sufficient attention. There will be more occasions to put them on stage again.
 
-- **LEGIT** specialize, perhaps in a frequent topic that comes in many flavours and cases and can't be boiled down to *"duplicate of...<single answer>"*. 
+- **LEGIT** specialize, perhaps in a frequent topic that comes in many flavours and cases and can't be boiled down to *"duplicate of...<single answer>"*. [BasilBourque](https://stackoverflow.com/search?q=user:642706) is the Date/DateTime guru for example.
 
 - **LEGIT** be a karma-whore. If you posted an answer and the OP signalled acceptance by commenting on the line of "thank you so much, very helpful" without accepting it, ask him if he/she/whatever could "consider to accept the answer by clicking the check mark". Many new posters aren't aware of those formalities. 
 
