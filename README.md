@@ -55,19 +55,24 @@ String msg = "The grey square and syntax highlighting convey professionality and
 - **GOOD** Imagine you're sitting next to the OP and tell him your comment. Helps me to remain respectful and empathic, especially when the comment has to convey criticism. Sometimes people including myself forget that even SO is a sort of communication platform, not just a place where some entities just throw information at each other. Even if SO might suggest [otherwise](https://stackoverflow.com/tour) at the moment ("There's no chit-chat").
 
 ## When asking
+
+- **GOOD** be resilient, but not too much. You may run into more or less patient contributors, also very much depending on the quality of your post. Which might not be all that great in  the beginning, whichs may provide a stingy learning experience.
+
+  I do recommend not to take any of it personal, not to identify single snappy comments as the soul of SO, and to attempt to create posts that don't trigger anything in the most stressed out and grumpy contributors except excellent answers. Assumably they hang out there to help anyway, harsh as some may sound.  
+
 - **GOOD** follow the [guidlines](https://stackoverflow.com/tour). Well - nobody reads the guidelines anyway. 
 
   **They'll snap at you and down-vote your post to death when you do any of these:**
 
     - in the order of severeness: paste no code at all, post links to images of code, post images of code
     - paste code that doesn't compile, is badly formatted or not formatted at all (you can format it using the `{}` button).
-    - just dump your whole project without singling out a [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example)
-    - just copy/paste homework assignments without your solution attempts ("That's a do-my-homework question")
+    - dump your whole project without singling out a [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example)
+    - copy/paste homework assignments without your solution attempts ("That's a do-my-homework question")
     - don't document your own effort you put into it and point out where and why you're stuck ("This is not a free coding/debugging service...") 
-    - mention errors but post no exception, call stack and the line the exception is raised (there are no line numbers at SO)
+    - talk about errors but post no exception, call stack and the line the exception is raised (there are no line numbers at SO)
     - don't post sample input that allows to reproduce errors
-    - don't describe expected behavior along the things the program does, but isn't supposed to do
-    - sound demanding, snooty ... You know, people do it for free. Its more like asking for a favor than to get a service delivered. Well, most may also do it for reputation, but at least they're not getting paid. Only SO makes money, at least it tries to.
+    - don't describe expected behavior along with the things the program does, but isn't supposed to do
+    - sound demanding, snooty ... you know, people do it for free. Its more like asking for a favor than to get a service delivered. Well, most may also do it for reputation, but at least they're not getting paid. Only SO makes money, at least it tries to.
 
 - **GOOD** and you got down-voted to death, you obiously should work on your way of asking or your choice of questions. Well, no, **you must, otherwise you'll get banned from asking sonner or later**, aside from getting no answers and causing as well as experiencing plenty of frustration. 
 
