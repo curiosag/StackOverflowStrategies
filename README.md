@@ -12,6 +12,11 @@ A collection of strategies and approaches, from legitimate to evil, to get going
 
 - **LEGIT** Add additional explanation and links to the post once it is out. Some text and links seems to impress people more than bare bone code. References in general, to scientific papers in particular and stuff like Java language specification impress (and may be helpful too).
 
+- **LEGIT** Add at least a snippet of code whenever possible. 
+```java
+String msg = "The grey square and syntax highlighting convey professionality and deep knowledge.";
+```
+
 - **LEGIT** Apply a catchy formatting with paragraphs, horizontal rules, quotes and all.  
 
 - **LEGIT** follow up on comments, augment your answer as they unfold.
