@@ -66,9 +66,10 @@ String msg = "The grey square and syntax highlighting convey professionality and
 
 - **GOOD** follow the [guidlines](https://stackoverflow.com/tour). Well - nobody reads the guidelines anyway. 
 
-  **They'll snap at you and down-vote your post to death when you do any of these:**
+  **They'll snap at you, down-vote your post or delete it when you do any of these:**
 
-    - in the order of severeness: paste no code at all, post links to images of code, post images of code
+    - post something off-topic, which is basically anything not directly related to writing computer programs
+    - if code is involved, in the order of severeness: paste no code at all, post links to images of code, post images of code
     - paste code that doesn't compile, is badly formatted or not formatted at all (you can format it using the `{}` button).
     - dump your whole project without singling out a [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example)
     - copy/paste homework assignments without your solution attempts ("That's a do-my-homework question")
