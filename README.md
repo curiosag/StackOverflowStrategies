@@ -1,6 +1,6 @@
 # Stack Overflow Strategies
 
-A collection of strategies and approaches to get going on and get along with the [Stack Overflow](https://stackoverflow.com/) site. 
+A collection of strategies and approaches, from legitimate to evil, to get going on and get along with the [Stack Overflow](https://stackoverflow.com/) site. 
 
 ## When answering
 
