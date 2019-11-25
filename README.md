@@ -5,9 +5,13 @@ A collection of strategies and approaches, from good to evil, to get going on an
 ```java
 public enum Approach {
     GOOD, LEGITIMATE, DOUBTFUL, EVIL
-}```
+}
+```
+OP ... original post
 
 ## When answering
+
+- **GOOD** remain respectful, also in the face of an hair raising OP. Apart from any moral aspect you're creating a barrier for the questioner to accept your answer, when, while maybe correct and technically helpful, it conveys a judgment about the OP being an idiot. Watch your words, contemt may even sneak in between the lines. Display of respectful communication might also be a trigger that earns you up-votes, I do suspect. In any case it creates a distinctly satisfying experience, IMHO, to treat others as human beings despite possible technical flaws, instead of snapping at them. Unless you've the misfortune of being a clinical psychopath [(F60.2)](https://www.icd10data.com/ICD10CM/Codes/F01-F99/F60-F69/F60-/F60.2). 
 
 - **LEGIT** edit posts. You're entitled to do so from the start, each accepted edit earns you +2. Easy wins are code formatting, weeding out non-gender-neutral addressing of the audience ("Hello, guys"), adding detailed information ("I'm using a scanner" -> "I'm using java.util.Scanner") or setting stuff straight ("I'm using an array" -> its often an ArrayList actually) and re-tagging the post (e.g. 'java' confused with 'javascript')
 
