@@ -76,8 +76,8 @@ String msg = "The grey square and syntax highlighting convey professionality and
 
 - **GOOD** If you got down-voted to death, you obiously should work on your way of asking, or your choice of questions. Well, no, **you must, otherwise you'll get banned from asking sonner or later**. And aside from getting no answers you're causing as well as experiencing plenty of frustration. 
 
-- **LEGIT**   **But** if you got down-voted to death and also want to restore your SO reputation to where it was before, then just delete the post. As long as there hasn't been an answer that's supposed to be ok. Afterwards I'm not sure, but a post of that kind isn't likelely to yield any answers anyway. 
+- **LEGIT**   **But** if you got down-voted to death and also want to restore your SO reputation to where it was before, then just delete the post. As long as there hasn't been an answer that's supposed to be ok. Afterwards I'm not sure, but a post of that kind isn't likely to yield any answers anyway. 
 
-  Don't re-post it, though, this will get you're account blocked. And don't repeat the trick as a staple, you'll get blocked anyway (see previous point).
+  Don't re-post it, though, this will get you're account blocked. And although the trick allows recovery from early disaster, don't get used to it, you'll get blocked anyway (see previous point).
   
   But don't blare this advice out, all over the place. Deleting seems [officially legitimate](https://meta.stackoverflow.com/a/311812/1428369) but the mods online will still consider such an advice illegitimate.
