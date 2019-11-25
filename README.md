@@ -56,9 +56,9 @@ String msg = "The grey square and syntax highlighting convey professionality and
 
 ## When asking
 
-- **GOOD** be resilient, but not too much. You may run into more or less patient contributors, also very much depending on the quality of your post. Which might not be all that great in  the beginning, whichs may provide a stingy learning experience.
+- **GOOD** be resilient, but not too much. You may run into more or less patient contributors, also very much depending on the quality of your post. Which might not be all that great in  the beginning, whichs may provide a stingy learning experience. Persist, improve. [Formatting](https://stackoverflow.com/editing-help) makes a gread deal of a difference.
 
-  I do recommend not to take any of it personal, not to identify single snappy comments as the soul of SO. Attempt to create posts that don't trigger anything in the most stressed out and grumpy contributors except excellent answers. Assumably they hang out there to help anyway, even if a few come across like fanatical adherents of poisenous paedagogy.
+  I do recommend not to take any of it personal, not to identify single snappy comments as the soul of SO. Attempt to create posts that don't trigger anything in the most stressed out and grumpy contributors except excellent answers. Assumably they hang out there to help anyway, even if a few black sheep may come across like fanatical adherents of poisenous paedagogy.
   
 - **GOOD** Anger management. When you find yourself in an agitated state of emotional reactivity, leave SO until the state is gone, for half a day, say. Before you leave delete any comments made in that state.
 
