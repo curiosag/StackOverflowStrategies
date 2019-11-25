@@ -47,15 +47,18 @@ String msg = "The grey square and syntax highlighting convey professionality and
 - **LEGIT** imagine you're sitting next to the OP and tell him your comment. Helps me to remain respectful and empathic, especially when the comment is has to convey criticism. Sometimes people including myself forget that even SO is a sort of communication platform, not just a place where some entities throw information at each other.
 
 ## When asking
-- follow the guidlines(https://stackoverflow.com/tour). Well nobody reads the guidelines. **They'll snap at you and down-vote you to death when you do any of at least these:**
-..* paste no code at all, paste images of code, paste links to images of code
-..* paste code that doesn't compile, is badly formatted or not formatted at all (you can format it using the `{}` button).
-..* just dump your whole project without 
-..* just copy/paste homework assignments without your solution attempts ("You're asking to do your homework?")
-..* don't document your own effort you put into it and point out where and why you're stuck ("This is not a free coding/debugging service...") 
-..* mention errors but post no exception, call stack and the line the exception is raised (there are no line numbers at SO)
-..* don't post sample input that leads to observed errors
-..* don't describe expected behavior
-..* sound demanding
+- follow the guidlines(https://stackoverflow.com/tour). Well - nobody reads the guidelines. 
+
+  **They'll snap at you and down-vote you to death when you do any of these:**
+
+    - paste no code at all, paste images of code, paste links to images of code
+    - paste code that doesn't compile, is badly formatted or not formatted at all (you can format it using the `{}` button).
+    - just dump your whole project without singling out a [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example)
+    - just copy/paste homework assignments without your solution attempts ("That's a do-my-homework question")
+    - don't document your own effort you put into it and point out where and why you're stuck ("This is not a free coding/debugging service...") 
+    - mention errors but post no exception, call stack and the line the exception is raised (there are no line numbers at SO)
+    - don't post sample input that leads to observed errors
+    - don't describe expected behavior
+    - sound demanding
 
 - and you got down-voted to death, you'd want to work on your way of asking or your choice of questions. **But** if you also want to restore your SO reputation to where it was before, then just delete the post. As long as there hasn't been an answer that's supposed to be ok. Afterwards I'm not sure, but a post of that kind isn't likelely to yield any answers anyway. Don't re-post it, though, this will get you're account blocked.
