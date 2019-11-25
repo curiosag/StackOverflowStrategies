@@ -60,7 +60,7 @@ String msg = "The grey square and syntax highlighting convey professionality and
 
   I do recommend not to take any of it personal, not to identify single snappy comments as the soul of SO. Attempt to create posts that don't trigger anything in the most stressed out and grumpy contributors except excellent answers. Assumably they hang out there to help anyway, even if a few come across like fanatical adherents of poisenous paedagogy.
   
-- **GOOD** Anger management. When you find yourself in an agitated state of emotional reactivity, leave SO until it's gone. Half a day, say. Before you leave delete any comments made in that state.
+- **GOOD** Anger management. When you find yourself in an agitated state of emotional reactivity, leave SO until the state is gone, for half a day, say. Before you leave delete any comments made in that state.
 
 - **GOOD** follow the [guidlines](https://stackoverflow.com/tour). Well - nobody reads the guidelines anyway. 
 
