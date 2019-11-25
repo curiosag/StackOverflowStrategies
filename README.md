@@ -2,10 +2,10 @@
 
 A collection of strategies and approaches, from good to evil, to get going on and get along with the [Stack Overflow](https://stackoverflow.com/) site. 
 
-´´´java
+```java
 public enum Approach {
     GOOD, LEGITIMATE, DOUBTFUL, EVIL
-}´´´
+}```
 
 ## When answering
 
