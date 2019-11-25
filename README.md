@@ -8,7 +8,7 @@ A collection of strategies and approaches, from legitimate to evil, to get going
 
 - **LEGIT** Be fast, be first. Have your IDE up and running and google's search page open. Make a quick solution and put it out. Later posts fare worse.
 
-- **LEGIT** Choose your time. Sometimes you find yourself in a swarm of lightning fast predators hunting for reputation. You realize it when you see a pristine OP just 15 seconds old, place your answer at 2:20, just to find out that in the meantime 3 others have been faster. More often its just one predator, who isn't online every day. Depends also on its wake/sleep patterns and time zone. 
+- **LEGIT** Choose your time. Sometimes you find yourself in a swarm of lightning fast predators hunting for reputation. You realize it when you see a pristine OP just 15 seconds old, place your answer at 2:20, just to find out that in the meantime 3 others have been faster. More often its just one predator, who isn't online every day. Depends also on its wake/sleep patterns and time zone. Afer a while you know all of them intimately.
 
 - **LEGIT** Add additional explanation and links to the post once it is out. Some text and links seems to impress people more than bare bone code. References in general, to scientific papers in particular and stuff like Java language specification impress (and may be helpful too).
 
