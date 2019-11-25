@@ -78,6 +78,8 @@ String msg = "The grey square and syntax highlighting convey professionality and
     - don't describe expected behavior along with the things the program does, but isn't supposed to do
     - sound demanding, snooty ... you know, people do it for free. Its more like asking for a favor than to get a service delivered. Well, most may also do it for reputation, but at least they're not getting paid. Only SO makes money, at least it tries to.
 
+- **GOOD** Be patient. Even the highes rated questions do have a share of down-votes, for whatever reason. But a single up-vote cures 5 down-votes anyway (or 10?) as far as reputation is concerend. As soon as the audience is big enough, you can't please everyone. 
+
 - **GOOD** If you got down-voted to death, you obiously should work on your way of asking, or your choice of questions. Well, no, **you must, otherwise you'll get banned from asking sonner or later**. And aside from getting no answers you're causing as well as experiencing plenty of frustration. 
 
 - **LEGIT**   **But** if you got down-voted to death and also want to restore your SO reputation to where it was before, then just delete the post. As long as there hasn't been an answer that's supposed to be ok. Afterwards I'm not sure, but a post of that kind isn't likely to yield any answers anyway. 
