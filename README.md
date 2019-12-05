@@ -13,7 +13,7 @@ public enum SosApproach {
 }
 ```
 
-May the tips guide your journey, just as they led me in the barren and hostile desert of Java Q/A from the dark abyss of insignificance (and the ultimate minimum of privileges) to the high ridges of fame, glazing in the sun of admiration beyond [1K](https://stackoverflow.com/users/1428369/gurioso?tab=reputation) reputation within about 2 months. You should google Jon Skeet [now](https://www.google.com/search?q=jon+skeet).
+May the tips guide your journey, just as they led me in the barren and hostile desert of Java Q/A from the dark abyss of insignificance (and the ultimate minimum of privileges on stack overflow) to the high ridges of fame, glazing in the sun of admiration beyond [1K](https://stackoverflow.com/users/1428369/gurioso?tab=reputation) reputation within about 2 months. You should google Jon Skeet [now](https://www.google.com/search?q=jon+skeet).
 
 
 > put on hold as off-topic by Qwertz, rolansky, foolproof, Filiburz, Yummy 54 mins ago
@@ -35,9 +35,11 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
 
 ## When answering
 
-- **GOOD** Know the terms of trade. Know how to format posts, try to make the answer water-tight, no speculative answers, no loose ends permitted. **Never** answer questions that can be identified as duplicates in less than 3 minutes of research until you esxcaped the newbie spotlight. Flagging them as duplicates will earn you +1 in the "helpful flags" count (if the rest of SO agrees to your judgment), but no reputation.
+- **GOOD** Read Jon Skeets advise before on [answering questions](https://codeblog.jonskeet.uk/2009/02/17/answering-technical-questions-helpfully/).
 
-- **GOOD** Pick proper questions. Answering questions that are considered bad (know the terms of trade) attracts down-votes of the **answer** too. The more save bets are questions where the reply is a snippet of code (garnished with some words for the literary appeal).
+- **GOOD** Hunt for [bounties](https://meta.stackexchange.com/questions/16065/how-does-the-bounty-system-work), obviously.
+
+- **GOOD** Pick proper questions. Answering questions that are considered bad (know the terms of trade) attracts down-votes of the **answer** too. The more safe bets are questions where the reply is a snippet of code (garnished with some words for the literary appeal).
 
 - **GOOD** Resilience. That's not the Nobel price commission descending on you judging the worthiness of your contribution for mankind. It may well be a maladjusted jobless duffer with a computer and too much time. When getting down-voted, improve and try again. If you're lucky and someone commented what actually was wrong, use the information, and drop the emotional content (if negative). Don't get into comment wars, you can't win, but you can get reputation deducted.
 
@@ -45,11 +47,11 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
 
   Display of respectful communication might also be a trigger that earns you up-votes, I do suspect. In any case it creates a distinctly satisfying experience, IMHO, to treat others as human beings despite technical shortcomings, instead of snapping at them. Unless you've the misfortune of being a clinical psychopath [(F60.2)](https://www.icd10data.com/ICD10CM/Codes/F01-F99/F60-F69/F60-/F60.2). 
 
-- **GOOD** Edit posts. You're entitled to do so from the start, each accepted edit earns you +2. Makes stuff easier to find, to comprehend and nicer to look at. 
+- **GOOD** Edit other posts. You're entitled to do so from the start, each accepted edit earns you +2, until you hit the edit reputation cap at 2000. Makes stuff easier to find, to comprehend and nicer to look at. 
 
-  Easy wins are code formatting, weeding out non-gender-neutral addressing of the audience ("Hello, guys") instead of staging political fights about it, adding detailed information ("I'm using a scanner" -> "I'm using java.util.Scanner") or setting stuff straight ("I'm using an array" -> its often an ArrayList actually) and re-tagging the post (e.g. 'java' confused with 'javascript')
+  Easy wins are code formatting, right now also weeding out non-gender-neutral addressing of the audience ("Hello, guys") instead of staging [political fights](https://meta.stackexchange.com/questions/336366/post-for-clarifications-on-the-updated-pronouns-faq) about it (but I didn't like "Hello, guys" anyway), adding detailed information ("I'm using a scanner" -> "I'm using java.util.Scanner") or setting stuff straight ("I'm using an array" -> its often an ArrayList actually) and re-tagging the post (e.g. 'java' gets time and again confused with 'javascript')
 
-- **GOOD** Attend to your posts. Come back to the posters when they commented stuff like "Great answer, I'll try that first and accept later", then they forget the latter. Also on a second (or third) glance you may see glitches that eluded you before, there's another advantage to that too, that I won't disclose here.
+- **GOOD** Maximize quality, attend to your posts. Better quality, more up-votes. Come back to the posters when they commented stuff like "Great answer, I'll try that first and accept later", then they forget the latter. Also on a second (or third) glance you may see glitches that eluded you before, and it will bring the answer to the fore again as an active posts. Don't overdo it, otherwise the answer wanders to the community wiki and [yields no more reputation](https://meta.stackoverflow.com/a/315705/1428369).
 
 - **GOOD** Answer to the topic (and to the human being) rather than to the question. Some questions are stated poorly or are absolutely not persueable, still the topic may yield rep. E.g. there was the guy who asked, [which type of grammar Haskell has](https://stackoverflow.com/questions/59092560/what-kind-of-grammar-does-haskell-have/59092833#59092833). Poor formulation. What he meant was, by which type of parser it may be parsed. He wanted to build a Haskell->Java cross compiler (very hard to impossible and useless).
   One comment was *"If you have to ask this question, then you have no hope of completing that highly ambitious project"*. How informative and encouraging.
@@ -58,7 +60,7 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
 
   It even turned out, that the question actually already had a solution, since there are cross compilers Haskell -> JavasSript -> Java.
 
-- **LEGIT** Be fast. Have your IDE up and running and google's search page open. It's horrible to have an answer at your fingertips while IntelliJ keeps on indexing. Create an acceptable answer, publish it asap, improve later. Later answers fare worse.
+- **LEGIT** Be the fastest gun in the west [FGITW](https://meta.stackexchange.com/questions/18014/what-is-fgitw-and-scite). Have your IDE up and running and google's search page open. It's horrible to have an answer at your fingertips while IntelliJ keeps on indexing. Create an **acceptable** answer (not a trash answer), publish it asap, cash in on up-votes, then edit and improve. It's [a bit debated](https://meta.stackexchange.com/questions/89712/potential-fgitw-fix), yet legit.
 
 - **LEGIT** Add additional explanation and links to the post once it is out. Some text and links seems to impress people more than bare bone code. References in general, to scientific papers in particular and stuff like the Java language specification seem to impress (and may be helpful too).
 
@@ -79,13 +81,17 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
 
 - **LEGIT** Recycle. Maintain bookmarks of your recent answers if you think they're valuable, but didn't get the attention they deserve. There will be more occasions to put them on stage.
 
-- **LEGIT** Specialize, perhaps in a frequent topic that comes in many flavors and cases and can't be boiled down to *"duplicate of...single answer"*. [BasilBourque](https://stackoverflow.com/search?q=user:642706) made piles of rep with his Java Date/DateTime expertise for example, and [Andreas](https://stackoverflow.com/users/5221149/andreas) is the character encoding guy. Very hard to beat them on their home turf.
+- **LEGIT** Specialize, perhaps in a frequent topic that comes in many flavors and cases and can't be boiled down to *"duplicate of...single answer"*. [Vlad Michaelca](https://vladmihalcea.com/how-to-get-a-10000-points-stackoverflow-reputation/) did it with Hibernate, [BasilBourque](https://stackoverflow.com/search?q=user:642706) made piles of rep with his Java Date/DateTime expertise for example, and [Andreas](https://stackoverflow.com/users/5221149/andreas) is the character encoding guy. Very hard to beat them on their home turf.
 
 - **LEGIT** Be a karma-whore. If you posted an answer and the OP signaled acceptance by commenting on the line of "thank you so much, very helpful" without accepting it, ask him if he/she/whatever could "consider to accept the answer by clicking the green check mark". Many new posters aren't aware of those formalities.
 
-- **LEGIT** Don't reply to everybody. Some posters have the habit only to up-vote or accept, when their perceived problem is solved, which may be not the problem stated in the OP, not solvable at all, or solvable, but only in ways the OP can't understand. It is usually obvious when you look at the list of questions in their SO profile.
+- **LEGIT** Don't reply to everybody. Some posters have the habit only to up-vote or accept, when their perceived problem is solved, which may be not the problem stated in the OP, not solvable at all, or solvable, but only in ways the OP can't understand. It is usually obvious when you look at the list of questions in their SO profile. Still you might be able to lure them into rapport.
 
-- **QUESTIONABLE** Scavenging. From later answers it may be OK, if that's compatible with your moral compass. Don't try it with earlier answers, the approach will stink a mile against the wind. One could argue, that contemporary attention spans won't allow anybody to scroll past your hopefully leading answer anyway and you're serving mankind (and SO's stakeholders) by salvaging content from the otherwise unreachable depths. And if you manage to compile one complete answer from several fragmentary ones, that's actually legit [according to one founder](https://www.joelonsoftware.com/2008/09/15/stack-overflow-launches/) (or was so in 2008).
+   Low reputation and first time posters may not come back to their post at all, and perhaps even don't know about up-voting or accepting an answer. Only pays, if the question isn't terrible yielding a decent answer and up-votes from other visitors.  
+
+- **LEGIT/QUESTIONABLE** Scavenging. From later answers it may be OK, if that's compatible with your moral compass. Don't try it with earlier answers, the approach will stink a mile against the wind. One could argue, that contemporary attention spans won't allow anybody to scroll past your hopefully leading answer anyway and you're serving mankind (and SO's stakeholders) by salvaging content from the otherwise unreachable depths. And if you manage to compile one complete answer from several fragmentary ones, that's actually legit [according to one founder](https://www.joelonsoftware.com/2008/09/15/stack-overflow-launches/) (or was so in 2008).
+
+- **GOOD** Become Eric Lippert - sort of anti-FGITW. Tell a [story](https://stackoverflow.com/questions/6441218/can-a-local-variables-memory-be-accessed-outside-its-scope/6445794#6445794), transporting the answer as a simile, yielded him >4750 up-votes. His style [inspired user Mystical](https://meta.stackoverflow.com/a/315705/1428369) to the [highest yielding answer](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902) on SO ever (>30940 up-votes, > 1600 bounty), adding illustrations to the approach. That was 2012, didn't test what would happen today.  
 
 - **EVIL** Use sock puppet accounts and amplify certain answers. Don't overdo it, you'll quickly get weeded out.
 
@@ -114,6 +120,8 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
   *It usually translates to "I know the answer to your question, but instead of just answering it and letting us both get on with our lives, I'd like to show off my vast intellect by helping you embark on a major re-design that you neither asked for nor need at the moment."*
 
   ## When asking
+  
+- **GOOD** Read Jon Skeets advise before once on [asking questions](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/)  
 
 - **GOOD** Resilience. You may run into more or less patient contributors, also very much depending on the quality of your post. It might not be all that great in the beginning, which may provide a stingy learning experience. Persist, improve. [Formatting](https://stackoverflow.com/editing-help) makes a great deal of a difference. And always keep in mind: you're [not](https://meta.stackoverflow.com/questions/253100/why-do-people-scare-off-new-users?noredirect=1&lq=1) [alone](https://meta.stackoverflow.com/questions/251758/why-is-stack-overflow-so-negative-of-late).
 
@@ -159,7 +167,7 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
 
 - **LEGIT** Ask tactically, topics that may yield lots of up-votes. Personally never managed to do that, though. But question space of heavily grazed pastures like java is devoid of [low hanging fruits](https://stackoverflow.com/questions/1750435/comparing-java-enum-members-or-equals). Gone as are the days when your lifetime's desire for reputation could be satisfied by posting [one single question](https://stackoverflow.com/users/65374/user65374)
 
-- **LEGIT** Do as described before and answer your own question. Reserved for the [gods](https://stackoverflow.com/questions/18093928/what-does-could-not-find-or-load-main-class-mean), though. Or maybe not? Didn't try yet.
+- **LEGIT** Do as described before and answer your own question. Its acutally [encouraged](https://stackoverflow.blog/2011/07/01/its-ok-to-ask-and-answer-your-own-questions/).
 
 ---
 
