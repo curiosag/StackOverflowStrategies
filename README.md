@@ -11,7 +11,7 @@
 
   May the tips guide your journey, just as they led me in the barren and hostile desert of Java Q/A from the dark abyss of insignificance (and the ultimate minimum of privileges on stack overflow) to the high ridges of fame, glazing in the sun of admiration beyond [1K](https://stackoverflow.com/users/1428369/gurioso?tab=reputation) reputation within about 2 months. You should google Jon Skeet [now](https://www.google.com/search?q=jon+skeet).
 
-<p style="background-color: #f48024; line-height: 120%; padding: 30px; opacity: 0.9; border-radius: 5px"  >
+<p style="background-color: #ff6600; line-height: 120%; padding: 30px; opacity: 0.9; border-radius: 5px"  >
     put on hold as off-topic by <a href="https://stackoverflow.com">Qwertz</a>, <a href="https://stackoverflow.com">rolansky</a>, <a href="https://stackoverflow.com">foolproof</a>, <a href="https://stackoverflow.com">Filibuster</a>, <a href="https://stackoverflow.com">Yummy</a> 54 mins ago<br><br><br>
 
     This question appears to be off-topic. The users who voted to close gave this specific reason:<br><br>
@@ -27,12 +27,12 @@
   Not my business. I peddle tips, can't harm in any case (liability excluded).
 
 
-### legend
+  ### legend
   - SO ... stack overflow
   - OP ... original [post(er)](https://meta.stackoverflow.com/questions/253162/what-is-an-op-when-referring-to-stack-exchange)
   - rep ... reputation
 
-## When answering
+  ## When answering
 
   - **GOOD** Read Jon Skeet's advise on [answering questions](https://codeblog.jonskeet.uk/2009/02/17/answering-technical-questions-helpfully/) at least once.
 
@@ -103,7 +103,7 @@
 
   - **GOOD** Bend the universe to your will. Create the language/framework/api that everybody uses and become the undisputed supreme being ruling its SO tag. Given you still care then about such mundane trivialities. If you do, introduce **a lot** of [odd peculiarites](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json) on a random basis.
 
-## when commenting
+  ## when commenting
 
   - **GOOD** Empathy, respect. Imagine you're sitting next to the OP and tell him your comment. Helps me to remain respectful and empathetic, especially when you find yourself locked in a world view that suggests, that you have to convey criticism. Sometimes people including myself seem to forget that even SO is a sort of communication platform, not just a place where some entities just throw information at each other ("A?" "B!").
 
@@ -123,7 +123,7 @@
 
   *It usually translates to "I know the answer to your question, but instead of just answering it and letting us both get on with our lives, I'd like to show off my vast intellect by helping you embark on a major re-design that you neither asked for nor need at the moment."*
 
-## When asking
+  ## When asking
 
   - **GOOD** Read Jon Skeet's advise on [asking questions](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) at least once
 
@@ -158,7 +158,7 @@
 
   - **GOOD** If you got down-voted to death, you obviously should work on your way of asking, or your choice of questions. Well, no, **you must, otherwise you'll get banned from asking sooner or later**. And aside from getting no answers you're causing just as much frustration as you're experiencing yourself. If it is the very first question it won't matter in that sense, since your reputation can't sink below 1.
 
-<p style="background-color: #f48024; line-height: 120%; padding: 30px; opacity: 0.9; border-radius: 5px"  >
+<p style="background-color: #ff6600; line-height: 120%; padding: 30px; opacity: 0.9; border-radius: 5px"  >
 <b>You have reached your question limit</b><br><br>
 It looks like you might need a break - take a breather and come back soon!
 You've asked 1 question recently which has not been received very well by the community. Everyone learns at their own pace, and it's okay to make some mistakes. However, the reception your question has received thus far might ultimately block your account from asking questions entirely.
