@@ -38,11 +38,11 @@
 
   - **GOOD** Hunt for [bounties](https://meta.stackexchange.com/questions/16065/how-does-the-bounty-system-work), obviously.
 
-  - **GOOD** Pick proper questions. Answering questions that are considered [bad](https://meta.stackoverflow.com/questions/281793/stance-on-answering-bad-questions) attracts down-votes of the **answer** too. The more safe bets are questions where the reply is a snippet of code (garnished with some phrases for the literary appeal).
+  - **GOOD** Pick proper questions. Answering questions that are considered [bad](https://meta.stackoverflow.com/questions/281793/stance-on-answering-bad-questions) attracts down-votes of the **answer** too (-2 each). The more safe bets are questions where the reply is a snippet of code (garnished with some phrases for the literary appeal).
 
   - **GOOD** Resilience. That's not the Nobel price commission descending on you judging the worthiness of your contribution for mankind. It may rather be a maladjusted jobless freak with a computer and too much time or a some deviant students burning the subsidies they get from their parents. When getting down-voted, improve and try again.
 
-  If you're lucky and someone commented what actually was wrong, use the information, and drop the emotional content (if negative). Don't get into comment wars, you can't win, but you can get reputation deducted.
+  If you're lucky and someone commented what actually was wrong, use the information, and drop the emotional content (if negative). Don't get into comment wars, you can't win, but you can get reputation deducted (-2 for annoying a mod, in my experience).
 
   - **GOOD** Remain respectful, also in the face of an hair raising OP. Apart from any moral aspect you're creating a barrier for the questioner to accept (+15!) your answer, when, while maybe correct and technically helpful, it conveys a judgment about the OP being e.g. an incompetent, pretentious idiot. Watch your words, contempt may even ooze out between the lines. Outright unfriendly comments or worse will get you warnings or bans.
 
@@ -54,7 +54,8 @@
 
   - **GOOD** Maximize quality, attend to your posts. Better quality, more up-votes. Come back to the posters when they commented stuff like "Great answer, I'll try that first and accept later", then they forget the latter. Also on a second (or third) glance you may see glitches that eluded you before, and it will bring the answer to the fore again as an active posts. Don't overdo it, otherwise the answer becomes property of the [community wiki](https://meta.stackexchange.com/questions/11740/what-are-community-wiki-posts) and [yields no more reputation](https://meta.stackoverflow.com/a/315705/1428369).
 
-  - **GOOD** Answer to the topic more than to the question. Some questions are stated poorly or are absolutely not persueable, still the topic may yield rep. E.g. there was the guy who asked, [which type of grammar Haskell has](https://stackoverflow.com/questions/59092560/what-kind-of-grammar-does-haskell-have/59092833#59092833). Poor formulation. What he meant was, by which type of parser it may be parsed. He wanted to build a Haskell->Java cross compiler (very hard to impossible and useless).
+  - **GOOD** Answer to the topic more than to the question. Some questions are stated poorly or are absolutely not persueable, still the topic may yield rep. E.g. there was the guy who asked, [which type of grammar Haskell has](https://stackoverflow.com/questions/59092560/what-kind-of-grammar-does-haskell-have/59092833#59092833). He wanted to build a Haskell->Java cross compiler (very hard to impossible and useless).
+  
   One comment was *"If you have to ask this question, then you have no hope of completing that highly ambitious project"*. How informative and encouraging.
 
   Actually pinning down, what the issues were made for some interesting research and answer (+40), perhaps +10 coming from the critical commentator, I referred to him personally (@hisName), he looked at the answer, found his position corroborated (the "very ambitious" part) with his name mentioned, and of course liked that.
@@ -63,11 +64,11 @@
 
   - **LEGIT** Garnishing. Add additional explanation and links to the post once it is out. Some text and links seems to impress people more than bare bone code. References in general, to scientific papers in particular and stuff like the Java language specification seem to impress (and may be helpful too).
 
-  - **LEGIT** Choose your time. Occasionally you may find yourself in a swarm of lightning fast predators hunting for reputation. You realize it when you see a pristine OP just 15 seconds old, place your answer 2 minutes later, just to find out that you're the 4th to do so. More often its just one - well - co-contributor.
+  - **LEGIT** Choose your time. Occasionally you may find yourself in a swarm of lightning fast predators (FGITWs) hunting for reputation. You realize it when you see a pristine OP just 15 seconds old, place your answer 2 minutes later, just to find out that you're the 4th to do so. But more often its just one high speed - well - co-contributor.
 
   You can choose less crowded moments. Nobody's online every day. People have changing wake/sleep patterns, different time zones and sometimes real work to do also. After a while you know each of the quick co-inhabitants of the ecosystem intimately and can write another article about its behavior. You may find out that the SO interaction patterns that arise in other time zones than e.g. GMT+1 may more appeal to your preferences.
 
-  Occasionally the site is flooded for days with homework-, debug-my-code, do-my-job and similar questions by users who just did their first post (they won't make it far on that track). Sometimes answering to them may not be appropriate at all, will likely yield no up-vote (up-vote?) or even down-votes. No approach for this found yet. Wait for holidays? By building rapport occasionally an answerable question will yield +15, hard earned +15 usually.
+  Occasionally the site is congested for days on end with abysmal do-my-homework, debug-my-code, do-my-job and google-my-stuff questions by users who just did their first post. They won't make it far on that very track. Sometimes answering to them may not be appropriate at all, will likely yield no up-vote (up-vote?) or even down-votes. No approach for this found yet. Wait for holidays? By building rapport occasionally an answerable question will yield +15, hard earned +15 usually.
 
   - **LEGIT** Add at least a snippet of code whenever possible.
   <p style="background-color: #eff0f1; padding: 15px; font-size:110%; line-height:130%; border-radius: 5px"  >
@@ -123,7 +124,7 @@
 
   *It usually translates to "I know the answer to your question, but instead of just answering it and letting us both get on with our lives, I'd like to show off my vast intellect by helping you embark on a major re-design that you neither asked for nor need at the moment."*
 
-## When asking
+## when asking
 
   - **GOOD** Read Jon Skeet's advise on [asking questions](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) at least once
 
