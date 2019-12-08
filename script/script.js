@@ -22,7 +22,11 @@ document.addEventListener("DOMContentLoaded", function() {
     meta.setAttribute('charset', 'UTF-8')
     document.head.appendChild(meta)
 
-    var markdown = document.querySelector('noscript').innerText
+    var markdown = document.querySelector('markdown').innerText
+    $markdown = str_replace('<![CDATA[', '', $markdown);
+    $markdown = str_replace(']]','',$markdown);
+
+    console.debug($markdown);
 
     var converter = new showdown.Converter({
         emoji: true,
@@ -46,8 +50,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
     var html = converter.makeHtml(markdown)
-    document.body.innerHTML = html
-    document.title = document.title || document.body.firstElementChild.innerText.trim()
+
+    document.getElementById('markdownAsHtml').innerHTML = html
 
     // Handle hash linking
     setTimeout(function() {

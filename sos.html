@@ -1,0 +1,334 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd" >
+<html>
+<head>
+
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" type="text/css" href="./stacks.css">
+    <link rel="stylesheet" type="text/css" href="./primary.css">
+    <link rel="stylesheet" type="text/css" href="./cl.min.css">
+    <style>
+        .grey_text {
+            color: #6a737c;
+        }
+
+        .literal {
+            color: #7d2d66;
+        }
+
+        .keyword {
+            color: #1d3aa8;
+        }
+
+        .identifier {
+            color: #3da8c9;
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="./script/md-page.js"/>
+    <script>
+        var i = 1;
+        console.debug("huhu");
+
+    </script>
+</head>
+<body>
+
+<div style="font-size: larger   ">
+    <div style="float: left; padding: 3% 0% 0% 10%; ">
+        <img src="so.png" alt="so so">
+    </div>
+    <div style="float: right;">
+        <a href="https://github.com/curiosag/StackOverflowStrategies">
+            <img src="forkme_right_gray.png" alt="forkme" h>
+        </a>
+    </div>
+    <div style="clear: both;"></div>
+
+    <div style="alignment: center; padding: 0% 25% 0% 15%">
+        <table align="center">
+            <tr>
+                <td colspan="2">
+                    <h1>yet another stack overflow survival guide [closed]</h1>
+                    <span class="grey_text">Asked</span> today&nbsp;&nbsp;&nbsp;&nbsp; <span
+                        class="grey_text">Viewed</span> 19 times
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <hr style="border: none">
+                </td>
+            </tr>
+            <tr>
+                <td style="padding-right: 15px">
+                    <table>
+                        <tr>
+                            <td>
+                                <button class="fc-black-200 js-vote-up-btn grid--cell grid--cell s-btn s-btn__unset c-pointer"
+                                        title="This question shows research effort; it is useful and clear">
+                                    <svg aria-hidden="true" class="svg-icon m0 iconArrowUpLg" width="36" height="36"
+                                         viewBox="0 0 36 36">
+                                        <path d="M2 26h32L18 10 2 26z"></path>
+                                    </svg>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="js-vote-count grid--cell fc-black-200 fs-title grid fd-column ai-center c-pointer"
+                                     itemprop="upvoteCount" data-value="-17" title="View upvote and downvote totals"
+                                     tabindex="0">
+                                    -17
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <button class="fc-black-200 js-vote-down-btn grid--cell s-btn s-btn__unset c-pointer"
+                                        title="This question does not show any research effort; it is unclear or not useful">
+                                    <svg aria-hidden="true" class="svg-icon m0 iconArrowDownLg" width="36" height="36"
+                                         viewBox="0 0 36 36">
+                                        <path d="M2 10h32L18 26 2 10z"></path>
+                                    </svg>
+                                </button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center">
+                                <button class="fc-black-200 js-favorite-btn s-btn s-btn__unset c-pointer py4 js-gps-track"
+                                        title="Click to mark as favorite question (click again to undo)">
+                                    <svg aria-hidden="true" class="svg-icon iconStar" width="18" height="18"
+                                         viewBox="0 0 18 18">
+                                        <path d="M9 12.65l-5.29 3.63 1.82-6.15L.44 6.22l6.42-.17L9 0l2.14 6.05 6.42.17-5.1 3.9 1.83 6.16L9 12.65z"></path>
+                                    </svg>
+                                    <div class="js-favorite-count mt4" data-value="0">0</div>
+                                </button>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td valign="top">
+                    <div id="markdownAsHtml"/>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <hr style="border: none">
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="left">
+                    <table>
+                        <tr>
+                            <td style="padding-right: 10px">
+                                <svg aria-hidden="false" class="fc-black-100 svg-icon iconArrowUp" width="18"
+                                     height="18"
+                                     viewBox="0 0 18 18">
+                                    <path d="M1 13h16L9 5l-8 8z"></path>
+                                </svg>
+                            </td>
+                            <td>
+                                <div class="comment-body js-comment-edit-hide">
+                                    <span class="comment-copy">How have you determined this? Give an example of an input, expected result and actual result.</span>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding-right: 10px">
+                                <button class="js-comment-flag s-btn s-btn__unset bg-transparent c-pointer fc-black-100 h:fc-red-500"
+                                        aria-label="Flag Comment" aria-pressed="false"
+                                        title="Flag this comment for serious problems or moderator attention">
+                                    <svg aria-hidden="false" class="svg-icon iconFlag" width="18" height="18"
+                                         viewBox="0 0 18 18">
+                                        <path d="M3 2v14h2v-6h3.6l.4 1h6V3H9.5L9 2H3z"></path>
+                                    </svg>
+                                </button>
+                            </td>
+                            <td>
+
+                                <div class="comment-body js-comment-edit-hide">
+                                    <span class="comment-copy">See <a
+                                            href="https://stackoverflow.com/questions/how-to-ask">How to Ask</a> and <a
+                                            href="https://stackoverflow.com/help/minimal-reproducible-example">minimal reproducible example</a>.
+                            </span>
+
+                                    –&nbsp;<a href="https://stackoverflow.com/users/4216641/Qwertz"
+                                              title="8,111 reputation" class="comment-user">Qwertz</a>
+                                    <span class="comment-date" dir="ltr"><a class="comment-link"
+                                                                            href="#comment104675539_59231169"><span
+                                            title="2019-12-07 23:42:35Z"
+                                            class="relativetime-clean">2 hours ago</span></a></span>
+                                </div>
+
+                            </td>
+                        </tr>
+                    </table>
+                <td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <hr style="border: none">
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="left">
+                    <table>
+                        <tr>
+                            <td style="padding-right: 10px">
+                                <svg aria-hidden="false" class="fc-black-100 svg-icon iconArrowUp" width="18"
+                                     height="18"
+                                     viewBox="0 0 18 18">
+                                    <path d="M1 13h16L9 5l-8 8z"></path>
+                                </svg>
+                            </td>
+                            <td>
+                                <div class="comment-body js-comment-edit-hide">
+
+                                    <span class="comment-copy">Put your code here</span>
+
+                                    –&nbsp;<a href="https://stackoverflow.com/users/4216641/Filibuster"
+                                              title="8,111 reputation" class="comment-user">Filibuster</a>
+                                    <span class="comment-date" dir="ltr"><a class="comment-link"
+                                                                            href="#lala"><span
+                                            title="2019-12-07 22:12:23Z"
+                                            class="relativetime-clean">3 hours ago</span></a></span>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding-right: 10px">
+                                <button class="js-comment-flag s-btn s-btn__unset bg-transparent c-pointer fc-black-100 h:fc-red-500"
+                                        aria-label="Flag Comment" aria-pressed="false"
+                                        title="Flag this comment for serious problems or moderator attention">
+                                    <svg aria-hidden="false" class="svg-icon iconFlag" width="18" height="18"
+                                         viewBox="0 0 18 18">
+                                        <path d="M3 2v14h2v-6h3.6l.4 1h6V3H9.5L9 2H3z"></path>
+                                    </svg>
+                                </button>
+                            </td>
+                        </tr>
+                    </table>
+                <td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td>
+                    <hr style="border: none">
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="left">
+                    <table>
+                        <tr>
+                            <td style="padding-right: 10px">
+                                <svg aria-hidden="false" class="fc-black-100 svg-icon iconArrowUp" width="18"
+                                     height="18"
+                                     viewBox="0 0 18 18">
+                                    <path d="M1 13h16L9 5l-8 8z"></path>
+                                </svg>
+                            </td>
+                            <td>
+                                <div class="comment-body js-comment-edit-hide">
+
+                                    <span class="comment-copy">You actually forgot to ask a question.</span>
+
+                                    –&nbsp;<a href="https://stackoverflow.com/users/4216641/turing85"
+                                              title="8,111 reputation" class="comment-user">YetAnotherTuring</a>
+                                    <span class="comment-date" dir="ltr"><a class="comment-link"
+                                                                            href="#comment104675439_59231169"><span
+                                            title="2019-12-07 23:32:49Z"
+                                            class="relativetime-clean">2 hours ago</span></a></span>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding-right: 10px">
+                                <button class="js-comment-flag s-btn s-btn__unset bg-transparent c-pointer fc-black-100 h:fc-red-500"
+                                        aria-label="Flag Comment" aria-pressed="false"
+                                        title="Flag this comment for serious problems or moderator attention">
+                                    <svg aria-hidden="false" class="svg-icon iconFlag" width="18" height="18"
+                                         viewBox="0 0 18 18">
+                                        <path d="M3 2v14h2v-6h3.6l.4 1h6V3H9.5L9 2H3z"></path>
+                                    </svg>
+                                </button>
+                            </td>
+                        </tr>
+                    </table>
+                <td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <hr style="border: none">
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="left">
+                    <table>
+                        <tr>
+                            <td style="padding-right: 10px">
+                                <svg aria-hidden="false" class="fc-black-100 svg-icon iconArrowUp" width="18"
+                                     height="18"
+                                     viewBox="0 0 18 18">
+                                    <path d="M1 13h16L9 5l-8 8z"></path>
+                                </svg>
+                            </td>
+                            <td>
+                                <div class="comment-body js-comment-edit-hide">
+                                    <span class="comment-copy">Please <a
+                                            href="https://stackoverflow.com/posts/59231169/edit">edit</a> your post and add the actual question, which actually may be too broad.</span>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding-right: 10px">
+                                <button class="js-comment-flag s-btn s-btn__unset bg-transparent c-pointer fc-black-100 h:fc-red-500"
+                                        aria-label="Flag Comment" aria-pressed="false"
+                                        title="Flag this comment for serious problems or moderator attention">
+                                    <svg aria-hidden="false" class="svg-icon iconFlag" width="18" height="18"
+                                         viewBox="0 0 18 18">
+                                        <path d="M3 2v14h2v-6h3.6l.4 1h6V3H9.5L9 2H3z"></path>
+                                    </svg>
+                                </button>
+                            </td>
+                            <td>
+
+                                <div class="comment-body js-comment-edit-hide">
+                                    <span class="comment-copy">Also, please look at <a
+                                            href="https://stackoverflow.com/help/how-to-ask">How do I as a good question?-page</a>.</span>
+
+                                    –&nbsp;<a href="https://stackoverflow.com/users/4216641/YetAnotherTuring"
+                                              title="8,111 reputation" class="comment-user">YetAnotherTuring</a>
+                                    <span class="comment-date" dir="ltr"><a class="comment-link"
+                                                                            href="#comment104675539_59231169"><span
+                                            title="2019-12-07 23:42:35Z"
+                                            class="relativetime-clean">2 hours ago</span></a></span>
+                                </div>
+
+                            </td>
+                        </tr>
+                    </table>
+                <td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <hr style="border: none">
+                </td>
+            </tr>
+        </table>
+    </div>
+
+</div>
+
+</body>
+</html>
+
+

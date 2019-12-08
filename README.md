@@ -36,7 +36,7 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
 
 ## When answering
 
-- **GOOD** Read Jon Skeets advise before on [answering questions](https://codeblog.jonskeet.uk/2009/02/17/answering-technical-questions-helpfully/).
+- **GOOD** Read Jon Skeet's advise on [answering questions](https://codeblog.jonskeet.uk/2009/02/17/answering-technical-questions-helpfully/) at least once.
 
 - **GOOD** Hunt for [bounties](https://meta.stackexchange.com/questions/16065/how-does-the-bounty-system-work), obviously.
 
@@ -46,9 +46,9 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
 
   If you're lucky and someone commented what actually was wrong, use the information, and drop the emotional content (if negative). Don't get into comment wars, you can't win, but you can get reputation deducted.
 
-- **GOOD** Remain respectful, also in the face of an hair raising OP. Apart from any moral aspect you're creating a barrier for the questioner to accept your answer, when, while maybe correct and technically helpful, it conveys a judgment about the OP being e.g. an incompetent, pretentious idiot. Watch your words, contempt may even ooze out between the lines. Outright unfriendly comments or worse will get you warnings or bans.
+- **GOOD** Remain respectful, also in the face of an hair raising OP. Apart from any moral aspect you're creating a barrier for the questioner to accept (+15!) your answer, when, while maybe correct and technically helpful, it conveys a judgment about the OP being e.g. an incompetent, pretentious idiot. Watch your words, contempt may even ooze out between the lines. Outright unfriendly comments or worse will get you warnings or bans.
 
-  Display of respectful communication might also be a trigger that earns you up-votes, I do suspect. In any case it creates a distinctly satisfying experience, IMHO, to treat others as human beings despite technical shortcomings, instead of snapping at them. Unless you've the misfortune of being a clinical psychopath [(F60.2)](https://www.icd10data.com/ICD10CM/Codes/F01-F99/F60-F69/F60-/F60.2). 
+  Display of respectful communication might also be a trigger that earns you up-votes (+10 each), I do suspect. In any case it creates a distinctly satisfying experience, IMHO, to treat others as human beings despite technical shortcomings, instead of snapping at them. Unless you've the misfortune of being a clinical psychopath [(F60.2)](https://www.icd10data.com/ICD10CM/Codes/F01-F99/F60-F69/F60-/F60.2). 
 
 - **GOOD** Edit other posts. You're entitled to do so from the start, each accepted edit earns you +2, until you hit the edit reputation cap at 2000. Makes stuff easier to find, to comprehend and nicer to look at. 
 
@@ -59,7 +59,7 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
 - **GOOD** Answer to the topic more than to the question. Some questions are stated poorly or are absolutely not persueable, still the topic may yield rep. E.g. there was the guy who asked, [which type of grammar Haskell has](https://stackoverflow.com/questions/59092560/what-kind-of-grammar-does-haskell-have/59092833#59092833). Poor formulation. What he meant was, by which type of parser it may be parsed. He wanted to build a Haskell->Java cross compiler (very hard to impossible and useless).
   One comment was *"If you have to ask this question, then you have no hope of completing that highly ambitious project"*. How informative and encouraging.
 
-  Actually pinning down, what the issues were made for some interesting research and answer (>=40), perhaps +10 coming from the critical commentator, I referred to him personally (@hisName), he looked at the answer, found his position corroborated (the "very ambitious" part) with his name mentioned, and of course liked that.
+  Actually pinning down, what the issues were made for some interesting research and answer (+40), perhaps +10 coming from the critical commentator, I referred to him personally (@hisName), he looked at the answer, found his position corroborated (the "very ambitious" part) with his name mentioned, and of course liked that.
 
 - **LEGIT** Be the fastest gun in the west ([FGITW](https://meta.stackexchange.com/questions/18014/what-is-fgitw-and-scite))! Have your IDE up and running and google's search page open. It's horrible to have an answer at your fingertips while IntelliJ keeps on indexing. Create an **acceptable** answer (not a trash answer), publish it asap, cash in on up-votes, then edit and improve. It's [a bit debated](https://meta.stackexchange.com/questions/89712/potential-fgitw-fix), yet legit.
 
@@ -94,13 +94,13 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
 
 - **LEGIT** Scavenge all over the place. If you manage to compile one complete answer from several fragmentary ones, that's actually legit [according to one founder](https://www.joelonsoftware.com/2008/09/15/stack-overflow-launches/) (or was so in 2008).
 
-- **GOOD** Become Eric Lippert. Telling a [story](https://stackoverflow.com/questions/6441218/can-a-local-variables-memory-be-accessed-outside-its-scope/6445794#6445794) that conveyed the issue/answer in the for of a simile yielded him >4750 up-votes. His style [inspired user Mystical](https://meta.stackoverflow.com/a/315705/1428369) to the [highest yielding answer](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902) on SO ever (>30940 up-votes, > 1600 bounty), adding illustrations to the approach. 
+- **GOOD** Become Eric Lippert. Telling a [story](https://stackoverflow.com/questions/6441218/can-a-local-variables-memory-be-accessed-outside-its-scope/6445794#6445794) that conveyed the issue/answer in the form of a simile yielded him >4750 up-votes. His style [inspired user Mystical](https://meta.stackoverflow.com/a/315705/1428369) to the [highest yielding answer](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902) on SO ever (>30940 up-votes, > 1600 bounty), adding illustrations to the approach. But also just spelling out some cryptic topic in human readable form [might do](https://stackoverflow.com/questions/9452701/ukkonens-suffix-tree-algorithm-in-plain-english?rq=1). 
 
   That was up to 2012, didn't test what would happen today. If it still works and you mange to do it, you can start to look down your nose at FGITW.
 
-- **EVIL** Use sock puppet accounts and amplify certain answers. Don't overdo it, you'll quickly get weeded out. Tried it only once, successfully (but then the OP got deleted because of its quality. The answer was essentially "1+1").
+- **EVIL** Use sock puppet accounts and amplify certain answers. Take care of identical ip addresses, browser profiling and [statistical patterns](https://meta.stackoverflow.com/questions/388469/does-stack-overflow-prevent-cartels?noredirect=1&lq=1). Don't overdo it, you'll quickly get weeded out. Tried it only once, successfully (but then the OP got deleted because of its quality. The answer was essentially "1+1").
 
-- **EVIL** Conspire with others to create a [voting ring](https://meta.stackoverflow.com/questions/373651/what-is-the-purpose-of-voting-rings). Will get you weeded out in no time. In the early days one account made it above 10K rep before being [taken out](https://meta.stackexchange.com/questions/178714/show-suspended-users-with-their-normal-reputation-in-the-data-explorer). Now they say, they're [way faster](https://meta.stackoverflow.com/a/373670/1428369).
+- **EVIL** Conspire with others to create [voting rings](https://meta.stackoverflow.com/questions/373651/what-is-the-purpose-of-voting-rings). Will get you weeded out in no time. In the early days one account made it above 10K rep before being [taken out](https://meta.stackexchange.com/questions/178714/show-suspended-users-with-their-normal-reputation-in-the-data-explorer). Now they say, they're [way faster](https://meta.stackoverflow.com/a/373670/1428369).
 
 - **GOOD** Early bird-ism. The gold rush on SO is long gone, but one still can be early in a new field. E.g. Java once was a [fertile pasture](https://stackoverflow.com/a/309448/1428369), now its a desert. But with significant upgrades comes new supply now and then, like the [introduction of lambdas](https://stackoverflow.com/questions/25147094/how-can-i-turn-a-list-of-lists-into-a-list-in-java-8/25147125#25147125) as of 2014 (up-votes question: >450, answer: >850).
 
@@ -128,7 +128,7 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
 
   ## When asking
   
-- **GOOD** Read Jon Skeets advise before once on [asking questions](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/)  
+- **GOOD** Read Jon Skeet's advise on [asking questions](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) at least once
 
 - **GOOD** Resilience. You may run into more or less patient contributors, also very much depending on the quality of your post. It might not be all that great in the beginning, which may provide a stingy learning experience. Persist, improve. [Formatting](https://stackoverflow.com/editing-help) makes a great deal of a difference. And always keep in mind: you're [not](https://meta.stackoverflow.com/questions/253100/why-do-people-scare-off-new-users?noredirect=1&lq=1) [alone](https://meta.stackoverflow.com/questions/251758/why-is-stack-overflow-so-negative-of-late).
 
@@ -153,7 +153,7 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
     - don't describe expected behavior along with the things the program does, but isn't supposed to do
     - sound demanding, snooty ... you know, people do it for free. Its more like asking for a favor than to get a service delivered. Well, most may also do it for reputation, but at least they're not getting paid. Only SO makes money, at least it tries to.
 
-- **GOOD** Patience. Even the highest rated questions do have a share of down-votes, for whatever reason. But a single up-vote cures 5 down-votes anyway (or 10?) as far as reputation is concernend. As soon as the audience is big enough, you can't please everyone.
+- **GOOD** Patience. Even the highest rated questions do have a share of down-votes, for whatever reason. But a single up-vote cures 5 down-votes anyway as far as reputation is concernend. As soon as the audience is big enough, you can't please everyone.
 
 - **LEGIT** Recycle known problems not yet posted. Scan through books like "Java Puzzlers" or the bug lists of programming languages and re-formulate them as SO posts. Such bizarre and useless stuff gets [well received](https://stackoverflow.com/questions/52147247/getting-unwanted-nullpointerexception-in-ternary-operator-why) usually. Try to decorate and pack them in an appealing riddle. But it might well be, that just answering question yields a better effort-to-reputation ratio.
 
@@ -168,17 +168,17 @@ Not my business. I peddle tips, can't harm in any case (liability excluded).
 
 - **LEGIT**   **But** if you got down-voted to death and also want to restore your SO reputation to where it was before, then just delete the post. As long as there hasn't been an answer that's supposed to be ok. Afterwards I'm not sure, but a post of that kind isn't likely to yield any answers anyway.
 
-  Don't re-post it, though, this will get you're account blocked. And although the trick allows recovery from early disaster, don't get used to it, you'll get blocked anyway (see previous point).
+  Don't re-post it, though, this will get you're account blocked. And although the trick allows recovery from early disaster, don't get used to it, you'll get blocked for poor posts anyway, deleted or not.
   
   But don't blare this advice out all over the place. Deleting seems [officially legitimate](https://meta.stackoverflow.com/a/311812/1428369) but the mods online will still consider such an *advice* illegitimate.
 
-- **LEGIT** Ask tactically, topics that may yield lots of up-votes. Personally never managed to do that, though. But question space of heavily grazed pastures like java is devoid of [low hanging fruits](https://stackoverflow.com/questions/1750435/comparing-java-enum-members-or-equals). Gone as are the days when your lifetime's desire for reputation could be satisfied by posting [one single question](https://stackoverflow.com/users/65374/user65374)
+- **LEGIT** Ask tactically, topics that may yield lots of up-votes. Personally never managed to do that, though. But the question space of heavily grazed pastures like java is devoid of [low hanging fruits](https://stackoverflow.com/questions/1750435/comparing-java-enum-members-or-equals). Gone as are the days when your lifetime's desire for reputation could be satisfied by posting [one single question](https://stackoverflow.com/users/65374/user65374)
 
 - **LEGIT** Do as described before and answer your own question. Its acutally [encouraged](https://stackoverflow.blog/2011/07/01/its-ok-to-ask-and-answer-your-own-questions/).
 
-- **EVIL** Create sock puppet accounts or voting rings ut up-vote your awful questions in order not to get banned. Still, it will get you banned [anyway](https://meta.stackoverflow.com/a/373670/1428369). This comment can be found under the given link:
+- **EVIL** Create sock puppet accounts or voting rings ut up-vote your awful questions in order not to get banned. Still, Evil and [counter-productive](https://meta.stackoverflow.com/a/373670/1428369). A quote from the link:
 
-  *One consulting company listed all their employees' Stack Overflow profiles on their front page, and became quite upset with us when they all were suspended at the same time." - haha.. aha.. AHAHAHAHAHAHA*
+  *One consulting company listed all their employees' Stack Overflow profiles on their front page, and became quite upset with us when they all were suspended at the same time. I imagine that didn't help them get clients.*
 ---
 
 

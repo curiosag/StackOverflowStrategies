@@ -2132,18 +2132,21 @@
     A.setAttribute("name", "viewport"), A.setAttribute("content", "width=device-width, initial-scale=1, shrink-to-fit=no"), document.head.appendChild(A);
     var C = document.createElement("meta");
     C.setAttribute("charset", "UTF-8"), document.head.appendChild(C);
-    var I = document.querySelector("noscript").innerText, e = new showdown.Converter({emoji: !0, underline: !0});
-    e.setFlavor("github"), e.addExtension(function () {
-        return [{
-            type: "output", regex: /<a\shref[^>]+>/g, replace: function (g) {
-                var A = g.match(/"(.*?)"/)[1];
-                return A.includes(window.location.hostname) || "/" == A[0] || "." == A[0] || "#" == A[0] ? g : '<a href="' + A + '" target="_blank">'
-            }
-        }]
-    }, "externalLink");
-    var r = e.makeHtml(I);
-    document.body.innerHTML = r, document.title = document.title || document.body.firstElementChild.innerText.trim(), setTimeout(function () {
-        var g = window.location.hash;
-        window.location.hash = "", window.location.hash = g
-    }, 100)
+
+    $.get("https://raw.githubusercontent.com/curiosag/StackOverflowStrategies/master/README.md", function (data, status) {
+        var I = data, e = new showdown.Converter({emoji: !0, underline: !0});
+
+        e.setFlavor("github"), e.addExtension(function () {
+            return [{
+                type: "output", regex: /<a\shref[^>]+>/g, replace: function (g) {
+                    var A = g.match(/"(.*?)"/)[1];
+                    return A.includes(window.location.hostname) || "/" == A[0] || "." == A[0] || "#" == A[0] ? g : '<a href="' + A + '" target="_blank">'
+                }
+            }]
+        }, "externalLink");
+        var r = e.makeHtml(I);
+        document.getElementById('markdownAsHtml').innerHTML = r;
+    });
+
+
 });
