@@ -27,12 +27,12 @@
   Not my business. I peddle tips, can't harm in any case (liability excluded).
 
 
-  ### legend
+### legend
   - SO ... stack overflow
   - OP ... original [post(er)](https://meta.stackoverflow.com/questions/253162/what-is-an-op-when-referring-to-stack-exchange)
   - rep ... reputation
 
-  ## When answering
+## When answering
 
   - **GOOD** Read Jon Skeet's advise on [answering questions](https://codeblog.jonskeet.uk/2009/02/17/answering-technical-questions-helpfully/) at least once.
 
@@ -103,7 +103,7 @@
 
   - **GOOD** Bend the universe to your will. Create the language/framework/api that everybody uses and become the undisputed supreme being ruling its SO tag. Given you still care then about such mundane trivialities. If you do, introduce **a lot** of [odd peculiarites](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json) on a random basis.
 
-  ## when commenting
+## when commenting
 
   - **GOOD** Empathy, respect. Imagine you're sitting next to the OP and tell him your comment. Helps me to remain respectful and empathetic, especially when you find yourself locked in a world view that suggests, that you have to convey criticism. Sometimes people including myself seem to forget that even SO is a sort of communication platform, not just a place where some entities just throw information at each other ("A?" "B!").
 
@@ -123,7 +123,7 @@
 
   *It usually translates to "I know the answer to your question, but instead of just answering it and letting us both get on with our lives, I'd like to show off my vast intellect by helping you embark on a major re-design that you neither asked for nor need at the moment."*
 
-  ## When asking
+## When asking
 
   - **GOOD** Read Jon Skeet's advise on [asking questions](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) at least once
 
