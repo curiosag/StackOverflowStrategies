@@ -4,7 +4,7 @@
   "You bet I am."
 
   <p style="background-color: #eff0f1; padding: 15px; font-size:110%; line-height:130%; border-radius: 5px"  >
-  public enum SosApproach {<br>
+      <span class="keyword">public enum</span>> <span class="identifier"> SosApproach</span> {<br>
   &nbsp;&nbsp;&nbsp;&nbsp;GOOD, LEGITIMATE, QUESTIONABLE, EVIL<br>
   }<br>
   </p>
@@ -12,7 +12,7 @@
   May the tips guide your journey, just as they led me in the barren and hostile desert of Java Q/A from the dark abyss of insignificance (and the ultimate minimum of privileges on stack overflow) to the high ridges of fame, glazing in the sun of admiration beyond [1K](https://stackoverflow.com/users/1428369/gurioso?tab=reputation) reputation within about 2 months. You should google Jon Skeet [now](https://www.google.com/search?q=jon+skeet).
 
 <p style="background-color: #f48024; line-height: 120%; padding: 30px; opacity: 0.9; border-radius: 5px"  >
-    put on hold as off-topic by Qwertz, rolansky, foolproof, Filiburz, Yummy 54 mins ago<br><br><br>
+    put on hold as off-topic by <a href="https://stackoverflow.com">Qwertz</a>, <a href="https://stackoverflow.com">rolansky</a>, <a href="https://stackoverflow.com">foolproof</a>, <a href="https://stackoverflow.com">Filibuster</a>, <a href="https://stackoverflow.com">Yummy</a> 54 mins ago<br><br><br>
 
     This question appears to be off-topic. The users who voted to close gave this specific reason:<br><br>
 
@@ -71,7 +71,7 @@
 
   - **LEGIT** Add at least a snippet of code whenever possible.
   ```java
-  String message = "The gray square conveys professionalism and deep understanding.";
+  <span class="identifier">String</span> <span class="keyword">message</span> = <span class="literal">"The gray square conveys professionalism and deep understanding.";</span>
   ```
 
   - **LEGIT** Minimize neural processing effort. Apply proper formatting with code sections, paragraphs, horizontal rules, quotes and all. Spell out examples in a way that the issue is *obvious at a first glance*.
