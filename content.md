@@ -177,9 +177,3 @@
   - **EVIL** Create sock puppet accounts or voting rings ut up-vote your awful questions in order not to get banned. Still, Evil and [counter-productive](https://meta.stackoverflow.com/a/373670/1428369). A quote from the link:
 
   *One consulting company listed all their employees' Stack Overflow profiles on their front page, and became quite upset with us when they all were suspended at the same time. I imagine that didn't help them get clients.*
-  ---
-
-
-
-
-
