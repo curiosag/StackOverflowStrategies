@@ -1,10 +1,3 @@
-![soso](./so.png "soso")
-# a stack overflow survival guide [closed]
-
-<span class="grey_text">Asked</span> today&nbsp;&nbsp;&nbsp;&nbsp; <span class="grey_text">Viewed</span> 5 times
-
-<hr style="border: 0.5px solid lightgray">
-
   A collection of strategies and approaches all (almost) learned the hard way. They range from the good to the evil, intended to get the unsuspecting going and getting along on the rugged terrain of the [Stack Overflow](https://stackoverflow.com/) ("SO") site and its diverse population. This isn't a moralistic or political endevour, it is about navigating circumstances that you otherwise can't change (right now - [later](https://stackoverflow.com/questions/18093928/what-does-could-not-find-or-load-main-class-mean) may be a different thing). You'll encounter enough morality wrecking havoc on SO. If you think it is spineless and opportunistic: that's intentional.
 
   "You're a [repwhore](https://meta.stackexchange.com/questions/281787/it-s-time-to-retire-the-term-rep-whore)!"
