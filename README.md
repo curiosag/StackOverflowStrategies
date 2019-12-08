@@ -159,7 +159,7 @@
   - **GOOD** If you got down-voted to death, you obviously should work on your way of asking, or your choice of questions. Well, no, **you must, otherwise you'll get banned from asking sooner or later**. And aside from getting no answers you're causing just as much frustration as you're experiencing yourself. If it is the very first question it won't matter in that sense, since your reputation can't sink below 1.
 
 <p style="background-color: #f48024; line-height: 120%; padding: 30px; opacity: 0.9; border-radius: 5px"  >
-<b>You have reached your question limit<br><br>
+<b>You have reached your question limit</b><br><br>
 It looks like you might need a break - take a breather and come back soon!
 You've asked 1 question recently which has not been received very well by the community. Everyone learns at their own pace, and it's okay to make some mistakes. However, the reception your question has received thus far might ultimately block your account from asking questions entirely.
 </p>
