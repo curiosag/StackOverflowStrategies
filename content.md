@@ -4,7 +4,7 @@
   "You bet I am."
 
   <p style="background-color: #eff0f1; padding: 15px; font-size:110%; line-height:130%; border-radius: 5px"  >
-      <span class="keyword">public enum</span>> <span class="identifier"> SosApproach</span> {<br>
+      <span class="keyword">public enum</span> <span class="identifier"> SosApproach</span> {<br>
   &nbsp;&nbsp;&nbsp;&nbsp;GOOD, LEGITIMATE, QUESTIONABLE, EVIL<br>
   }<br>
   </p>
@@ -70,9 +70,8 @@
   Occasionally the site is flooded for days with homework-, debug-my-code, do-my-job and similar questions by users who just did their first post (they won't make it far on that track). Sometimes answering to them may not be appropriate at all, will likely yield no up-vote (up-vote?) or even down-votes. No approach for this found yet. Wait for holidays? By building rapport occasionally an answerable question will yield +15, hard earned +15 usually.
 
   - **LEGIT** Add at least a snippet of code whenever possible.
-  ```java
+
   <span class="identifier">String</span> <span class="keyword">message</span> = <span class="literal">"The gray square conveys professionalism and deep understanding.";</span>
-  ```
 
   - **LEGIT** Minimize neural processing effort. Apply proper formatting with code sections, paragraphs, horizontal rules, quotes and all. Spell out examples in a way that the issue is *obvious at a first glance*.
 
